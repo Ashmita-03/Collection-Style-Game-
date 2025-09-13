@@ -1,48 +1,40 @@
 [![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
+# 🗑️ Trash Catcher Game
 
-🗑️ Trash Catcher Game
-🎮 Overview
+## 🎮 Overview
 
-Trash Catcher Game is a fun and simple arcade-style game built with p5.js and p5.play.
-The goal is to move the catcher (a dustbin) using the arrow keys to catch falling trash objects. Each successful catch increases your score, while missing one decreases it.
+Trash Catcher Game is this straightforward arcade thing made with p5.js and p5.play. You basically move around a dustbin catcher using the arrow keys, trying to snag all these falling trash items. Grab one right, and your score goes up by a point. Miss it, though, and you lose one. 
 
-This game was designed to encourage recycling awareness in a light, interactive way—showing that every piece of trash caught (or missed) makes a difference! 🌍♻️
+The whole idea behind it was to get people thinking about recycling, you know, in a chill, hands-on sort of way. Like, every bit of trash you catch or let slip away really adds up to something bigger for the planet. 
 
-🕹️ How to Play
+## 🕹️ How to Play
 
-Use the Left Arrow ← and Right Arrow → keys to move the catcher across the screen.
+You hit the left arrow key to slide the catcher that way, or the right one to go the other direction across the bottom of the screen. 
 
-Catch falling objects to earn points.
+Then there are these objects dropping down from the top, and your job is to catch them all. 
 
-✅ Catch trash = +1 point
+Catching trash gets you plus one point, easy enough. But if you miss, it dings you minus one, which sucks a bit. 
 
-❌ Miss trash = -1 point
+Just make sure nothing hits the bottom without getting caught, because that tanks your score quick. Keep at it as long as you can, chasing that top score. 
 
-Don’t let objects fall to the bottom of the screen—your score will drop!
+## 🌟Features
 
-Keep playing to achieve the highest score possible.
+It has these basic arrow key controls that feel pretty intuitive right off the bat. 
 
- → falling object image
+The trash falls at random speeds and spots each time, so replaying never gets old or predictable. 
 
-🌟 Features
+There's a scoring setup to keep track of how you're doing, nothing fancy but it works. 
 
-Simple arrow-key controls
+And yeah, it ties into this environmental recycling vibe, which is kind of the point. 
 
-Randomized falling trash speed and positions for replayability
+## 🚀Future Improvements
 
-Scoring system to track progress
+We could throw in different kinds of trash, like plastic bottles or cans and paper scraps, to mix things up. 
 
-Educational environmental theme ♻️
+Maybe add some bonus recyclables that give extra points when you nab them. 
 
-🚀 Future Improvements
+A timer or level system would ramp up the challenge over time. 
 
-Add multiple types of trash (plastic bottles, cans, paper, etc.)
-
-Add “bonus” recyclable items worth more points
-
-Add a timer or levels for progression
-
-Add background music and sound effects
-
-📸 Preview
+Oh and background tunes plus sound effects could make it way more engaging.
+## Preview
 <img width="497" height="512" alt="image" src="https://github.com/user-attachments/assets/7eb303ba-015c-4217-a6d5-4567c6b3c86f" />
