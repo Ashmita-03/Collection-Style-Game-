@@ -3,7 +3,7 @@
 
 ## 🎮 Overview
 
-Trash Catcher Game is this straightforward arcade thing made with p5.js and p5.play. You basically move around a dustbin catcher using the arrow keys, trying to snag all these falling trash items. Grab one right, and your score goes up by a point. Miss it, though, and you lose one. 
+Trash Catcher Game is this straightforward arcade thing made with p5.js and p5.play. You basically move around a dustbin catcher using the arrow keys, trying to snag all these falling trash items. Grab one right, and your score goes up by a point. Miss it, and you lose one. 
 
 The whole idea behind it was to get people thinking about recycling, you know, in a chill, hands-on sort of way. Like, every bit of trash you catch or let slip away really adds up to something bigger for the planet. 
 
